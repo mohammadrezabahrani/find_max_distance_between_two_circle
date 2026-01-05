@@ -17,3 +17,38 @@ The function is useful in computational geometry, simulations, collision detecti
 
 ## 📂 File Structure
 
+📐 How It Works
+
+Calculates the Euclidean distance between the two circle centers
+
+Adds both radii to the center distance
+
+Returns the maximum possible separation between the circles
+
+🚀 Applications
+
+Computational geometry
+
+Physics simulations
+
+Robotics & path planning
+
+Collision detection systems
+
+Academic and educational projects
+
+🛠 Requirements
+
+MATLAB (R2018 or newer recommended)
+
+📄 License
+
+This project is open-source and available under the MIT License.
+Feel free to use, modify, and distribute it.
+
+✨ Author
+
+Developed by MohammadReza Bahrani
+If you find this project useful, don’t forget to ⭐ star the repository!
+
+
